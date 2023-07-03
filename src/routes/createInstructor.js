@@ -1,0 +1,1 @@
+function createInstructor(req, res) {}
